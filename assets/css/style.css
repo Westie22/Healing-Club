@@ -8,7 +8,9 @@
 .bg-color-three-reasons {
     background-color: #fff;
 }
-
+.bg-color-personal-info {
+    background-color: #f4f4ff;
+}
 header {
     margin: 0;
 }
